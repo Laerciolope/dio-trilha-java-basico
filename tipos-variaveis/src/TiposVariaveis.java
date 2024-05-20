@@ -1,4 +1,5 @@
 public class TiposVariaveis {
+    @SuppressWarnings("unused")
     public static void main(String[] args) throws Exception {
 
         String meuNome = "LAERCIO LOPES";
